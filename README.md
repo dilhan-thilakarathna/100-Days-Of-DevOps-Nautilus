@@ -19,6 +19,6 @@ This repository serves as a technical log of my progression from foundational Li
 ### Module 01: Linux Basics & Security
 | Day | Task | Status | Solution |
 | :--- | :--- | :--- | :--- |
-| 001 | Create Restricted Service Account | ✅ Complete | [View Documentation](./01-Linux-Basics/Day-01-User-Setup/README.md) |
+| 001 | Create Restricted Service Account | ✅ Complete | [View Documentation](./01-Linux-Basics/Day-01-Linux-User-Setup-with-Non-Interactive-Shell/README.md) |
 | 002 | Identity Lifecycle Management | ⬜ Pending | |
 | 003 | Disable Direct Root SSH | ⬜ Pending | |
