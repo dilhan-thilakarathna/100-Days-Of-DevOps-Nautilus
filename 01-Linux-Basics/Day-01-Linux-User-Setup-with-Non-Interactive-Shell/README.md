@@ -1,4 +1,4 @@
-# 📅 Day 001: Linux User Setup with Non-Interactive Shell
+# Day 001: Linux User Setup with Non-Interactive Shell
 
 **Difficulty:** 🟢 Beginner | **Category:** Linux Security | **Status:** ✅ Complete
 **Author:** Dilhan Thilakarathna 
