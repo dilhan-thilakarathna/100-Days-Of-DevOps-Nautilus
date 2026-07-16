@@ -1,5 +1,3 @@
----
-
 # 📚 Technical Appendix
 
 ## 🔍 Core Utilities: `useradd` vs `chage`
