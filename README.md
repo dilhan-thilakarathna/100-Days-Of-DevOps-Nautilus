@@ -21,4 +21,5 @@ This repository serves as a technical log of my progression from foundational Li
 | :--- | :--- | :--- | :--- |
 | 001 | [Linux User Setup with Non-Interactive Shell](./01-Linux-Basics/Day-01/README.md) | ✅ Complete |
 | 002 | [Temporary User Setup with Expiry](./01-Linux-Basics/Day-02/README.md) | ✅ Complete |
-| 003 | Disable Direct Root SSH | ⬜ Pending | |
+| 003 | [Secure Root SSH Access](./01-Linux-Basics/Day-03/README.md) | ✅ Complete |
+| 004 | Script Execution Permissions | ⬜ Pending | |
