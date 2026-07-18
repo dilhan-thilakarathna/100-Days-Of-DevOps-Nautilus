@@ -17,9 +17,10 @@ This repository serves as a technical log of my progression from foundational Li
 ## 🏆 Progress Tracker
 
 ### Module 01: Linux Basics & Security
-| Day | Task | Status | Solution |
-| :--- | :--- | :--- | :--- |
+| Day | Task | Status |
+| :--- | :--- | :--- |
 | 001 | [Linux User Setup with Non-Interactive Shell](./01-Linux-Basics/Day-01/README.md) | ✅ Complete |
 | 002 | [Temporary User Setup with Expiry](./01-Linux-Basics/Day-02/README.md) | ✅ Complete |
 | 003 | [Secure Root SSH Access](./01-Linux-Basics/Day-03/README.md) | ✅ Complete |
-| 004 | Script Execution Permissions | ⬜ Pending | |
+| 004 | [Script Execution Permissions](./01-Linux-Basics/Day-03/README.md) | ✅ Complete |
+| 005 | SElinux Installation and Configuration | ⬜ Pending | |
