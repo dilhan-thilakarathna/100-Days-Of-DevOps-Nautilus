@@ -23,4 +23,5 @@ This repository serves as a technical log of my progression from foundational Li
 | 002 | [Temporary User Setup with Expiry](./01-Linux-Basics/Day-02/README.md) | ✅ Complete |
 | 003 | [Secure Root SSH Access](./01-Linux-Basics/Day-03/README.md) | ✅ Complete |
 | 004 | [Script Execution Permissions](./01-Linux-Basics/Day-04/README.md) | ✅ Complete |
-| 005 | SElinux Installation and Configuration | ⬜ Pending | |
+| 005 | [Script Execution Permissions](./01-Linux-Basics/Day-05/README.md) | ⬜ Loading... |
+| 006 | SElinux Installation and Configuration | ⬜ Pending | |
