@@ -55,3 +55,9 @@ cat /etc/selinux/config | grep SELINUX=
 Expected Output: `SELINUX=disabled`
 
 Note: Per the security team's instructions, no manual reboot was executed (reboot), and the live runtime status was intentionally left unmodified (setenforce 0 was not used). The server will naturally inherit the disabled state during its scheduled maintenance window tonight.
+
+---
+## 📚 Technical Appendix
+
+
+🔗 **[View Deep-Dive Notes](./deep-dive.md)**
