@@ -25,4 +25,5 @@ This repository serves as a technical log of my progression from foundational Li
 | 004 | [Script Execution Permissions](./01-Linux-Basics/Day-04/README.md) | ✅ Complete |
 | 005 | [SElinux Installation and Configuration](./01-Linux-Basics/Day-05/README.md) | ✅ Complete |
 | 006 | [Create a Cron Job](./01-Linux-Basics/Day-05/README.md) | ✅ Complete |
-| 007 | Linux SSH Authentication | ⬜ Pending | |
+| 007 | [Linux SSH Authentication](./01-Linux-Basics/Day-05/README.md) | ✅ Complete |
+| 008 | Install Ansible | ⬜ Pending | |
