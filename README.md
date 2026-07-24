@@ -26,4 +26,5 @@ This repository serves as a technical log of my progression from foundational Li
 | 005 | [SElinux Installation and Configuration](./01-Linux-Basics/Day-05/README.md) | ✅ Complete |
 | 006 | [Create a Cron Job](./01-Linux-Basics/Day-06/README.md) | ✅ Complete |
 | 007 | [Linux SSH Authentication](./01-Linux-Basics/Day-07/README.md) | ✅ Complete |
-| 008 | Install Ansible | ⬜ Pending | |
+| 008 | [Install Ansible](./01-Linux-Basics/Day-08/README.md) | ✅ Complete |
+| 009 | MariaDB Troubleshooting | ⬜ Pending | |
